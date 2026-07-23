@@ -1,0 +1,8 @@
+2026-07-23 09:00:01 INFO Server started
+2026-07-23 09:01:15 INFO Health check passed
+2026-07-23 09:05:22 WARN Disk usage at 78%
+2026-07-23 09:10:03 ERROR Connection refused to db01
+2026-07-23 09:12:44 INFO Request processed
+2026-07-23 09:15:09 ERROR Timeout while connecting to cache01
+2026-07-23 09:20:00 WARN Memory usage high
+2026-07-23 09:25:33 ERROR Disk write failed on /dev/sdb1
